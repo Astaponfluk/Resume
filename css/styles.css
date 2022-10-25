@@ -79,15 +79,19 @@ td {
   background-color: gold;
 }
 
-.back{
-  border: solid;
-  background-color: black;
-}
-
 .navbar-brand{
   color: #000;
 }
 
 .nav-link{
   color: #000;
+}
+
+.astapon{
+  border: 10px solid rgb(255, 2, 107);
+  border-radius: 50%;
+}
+
+table{
+  border: 5px solid rgb(91, 83, 83)
 }
